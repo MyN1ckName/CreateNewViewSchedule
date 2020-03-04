@@ -8,7 +8,7 @@ namespace CreateViewSchedule
 {
 	static class CreateNewViewSchedule
 	{
-		// Перевод милиметров в футы
+		// Перевод миллиметров в футы
 		const double mmToft = 0.00328084;
 
 		public static void CreateWallsSchedule(UIDocument uidoc)
